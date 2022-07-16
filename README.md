@@ -4,7 +4,7 @@ Umbraco.KeyValuePropertyEditor property editor for Umbraco
 
 This installs a custom property editor that can be used to configure external data to Umbraco nodes
 
-After installing this, you can add inherit from `KeyValueUmbracoPropertyEditorController` to implement an api endpoint that can server as a data source, for example: /umbraco/backoffice/Sample/LanguageDemoApi
+After installing this, you can add inherit from `KeyValueUmbracoPropertyEditorController` to implement an api endpoint that can server as a data source, for example: to create the following API endpoint `/umbraco/backoffice/Sample/LanguageDemoApi` here is the sample code needed.
 
 ```csharp
 using System;
