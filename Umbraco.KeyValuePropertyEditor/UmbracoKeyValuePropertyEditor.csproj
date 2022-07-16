@@ -4,7 +4,7 @@
         <TargetFramework>net6.0</TargetFramework>
         <ContentTargetFolders>.</ContentTargetFolders>
         <Product>Umbraco.KeyValuePropertyEditor</Product>
-        <PackageId>Umbraco.KeyValuePropertyEditor</PackageId>
+        <PackageId>UmbracoKeyValuePropertyEditor</PackageId>
         <Title>Umbraco.KeyValuePropertyEditor property editor for Umbraco</Title>
         <Description>This installs a custom property editor that can be used to configure external data to Umbraco nodes</Description>
         <PackageTags>umbraco plugin package</PackageTags>
